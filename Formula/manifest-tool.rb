@@ -1,5 +1,3 @@
-require "language/go"
-
 class ManifestTool < Formula
   desc "Multi arch registry tool"
   homepage "https://github.com/estesp/manifest-tool"
